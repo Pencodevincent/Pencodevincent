@@ -1,4 +1,3 @@
-### Hi there 👋
 
 Game version update timer 
 
