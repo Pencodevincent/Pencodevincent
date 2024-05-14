@@ -1,24 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Pencodevincent/Pencodevincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Game version update timer 
 
 
+<img src="http://i.countdownmail.com/3a3dun.gif" border="0" alt="countdownmail.com"/></img>
 
 
-Timer 
-
-
-<iframe src="https://free.timeanddate.com/countdown/i9dbzmx7/cf110/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pca0bfd5/tcfff/fs100/szw320/szh135/tatTime%20left%20to%20Event%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/mac000/mpc000/iso2024-06-05T00:00:00/bas2/bac09f" allowtransparency="true" frameborder="0" width="323" height="138"></iframe>
